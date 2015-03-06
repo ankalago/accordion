@@ -1,0 +1,94 @@
+body {
+    font: 11px Verdana, Arial, Helvetica, sans-serif;
+}
+.ico {
+    background-position: left center;
+    background-repeat: no-repeat;
+    font-size: 10px;
+    padding: 15px 5px 5px 25px;
+    text-decoration: none;
+}
+.li-gray1 a, .li-gray1 a:active, .li-gray1 a:hover, .li-gray1 a:visited, .li-gray2 a, .li-gray2 a:active, .li-gray2 a:visited, .li-gray2 a:hover {
+    color: #666666;
+    font-weight: bold;
+    text-decoration: none;
+}
+}
+ul.ul-downloads {
+    margin-left: 0px;
+    margin-top: 35px;
+}
+.ul-downloads, .ul-downloads ul {
+    list-style: none;
+}
+.ul-downloads ul {
+    display: none;
+}
+.ul-downloads li, .ul-downloads li ul li {
+    cursor: pointer;
+}
+.ul-downloads li {
+    padding: 15px;
+    padding-left: 30px;
+}
+.ul-downloads li.li-gray1 {
+    background: none;
+}
+.ul-downloads li.li-gray2 {
+    background: #e6e6e6;
+}
+.li-gray1 a, .li-gray1 a:active, .li-gray1 a:hover, .li-gray1 a:visited, .li-gray2 a, .li-gray2 a:active, .li-gray2 a:visited, .li-gray2 a:hover {
+    color: #666666;
+    font-weight: bold;
+    text-decoration: none;
+}
+.ul-downloads li ul li {
+    padding: 0px;
+    5px;
+    margin-right: 10px;
+    padding-left: 10px;
+}
+.ul-downloads li ul li.li-gray3, .li-gray3 {
+    background: #C4C2C2;
+}
+.ul-downloads li ul li.li-gray4, .li-gray4 {
+    background: #DADADA;
+}
+.ul-downloads li ul li.li-gray5, .li-gray5 {
+    background: #EAE6E6;
+}
+.ul-downloads li ul li.li-gray6, .li-gray6 {
+    background: #E0DDDD;
+}
+.ul-downloads li ul li.li-gray3 a, .ul-downloads li ul li.li-gray3 a:active, .ul-downloads li ul li.li-gray3 a:hover, .ul-downloads li ul li.li-gray3 a:visited, .ul-downloads li ul li.li-gray4 a, .ul-downloads li ul li.li-gray4 a:active, .ul-downloads li ul li.li-gray4 a:hover, .ul-downloads li ul li.li-gray4 a:visited, .ul-downloads li ul li.li-gray5 a, .ul-downloads li ul li.li-gray5 a:active, .ul-downloads li ul li.li-gray5 a:hover, .ul-downloads li ul li.li-gray5 a:visited, .ul-downloads li ul li.li-gray6 a, .ul-downloads li ul li.li-gray6 a:active, .ul-downloads li ul li.li-gray6 a:hover, .ul-downloads li ul li.li-gray6 a:visited {
+    color: #000000;
+    font-weight: normal;
+}
+div.li-gray3, div.li-gray4, div.li-gray5, div.li-gray6 {
+    display: none;
+    margin-left: 10px;
+    padding-left: 15px;
+}
+span.link {
+    background: url('http://www.inteligencia.gob.ec/wp-content/themes/institucion/img/ico/icon-pdf.png') no-repeat left;
+    display: block;
+    float: right;
+    margin-right: 10px;
+    margin-top: 2px;
+    padding-left: 20px;
+    font-size: 11px;
+}
+span.titulo-desc {
+    color: #000;
+    font-size: 13px;
+    background: #DADADA;
+    padding-left: 20px;
+}
+span.ico {
+    font-size: 16px;
+    margin-left: -15px;
+    margin-right: 15px;
+}
+ul {
+    line-height: 1.6;
+}
